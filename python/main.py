@@ -1,6 +1,5 @@
 import logging
 
-from parso import parse
 from tournament import Tournament
 import argparse
 

@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from importlib_metadata import re
 
 
 @dataclass

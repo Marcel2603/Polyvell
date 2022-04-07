@@ -1,4 +1,3 @@
-from ast import And
 import logging
 
 
